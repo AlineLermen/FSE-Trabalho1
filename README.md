@@ -19,10 +19,10 @@ bin/bin
 
 ## Gráficos do funcionamento
 
-# Potenciômetro
+### Potenciômetro
 * Temperaturas
 * Atuadores
 
-# Curva de Reflow
+### Curva de Reflow
 * Temperaturas
 * Atuadores
